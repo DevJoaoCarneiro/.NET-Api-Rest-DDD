@@ -34,6 +34,8 @@ Também foram implementados **testes unitários** para garantir a qualidade e co
 │
 └── webApiSocietyProject.sln
 
+```
+
 ## 🧪 Testes Unitários
 
 O projeto contém testes unitários cobrindo:
