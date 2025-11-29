@@ -8,28 +8,29 @@ Também foram implementados **testes unitários** para garantir a qualidade e co
 
 ## 📁 Estrutura do Projeto (DDD + SOLID)
 
+```bash
 ├── Api
-│ └── Controllers
+│   └── Controllers
 │
 ├── Application
-│ ├── DTOs
-│ ├── Interfaces
-│ └── Services
+│   ├── DTOs
+│   ├── Interfaces
+│   └── Services
 │
 ├── Domain
-│ ├── Entities
-│ ├── Interfaces
-│ └── Services
+│   ├── Entities
+│   ├── Interfaces
+│   └── Services
 │
 ├── Infrastructure
-│ ├── Context
-│ ├── Migrations
-│ └── Repositories
+│   ├── Context
+│   ├── Migrations
+│   └── Repositories
 │
 ├── Tests
-│ ├── ApplicationTests
-│ ├── DomainTests
-│ └── InfrastructureTests
+│   ├── ApplicationTests
+│   ├── DomainTests
+│   └── InfrastructureTests
 │
 └── webApiSocietyProject.sln
 
