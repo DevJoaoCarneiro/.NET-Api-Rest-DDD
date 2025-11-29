@@ -43,6 +43,7 @@ O projeto contém testes unitários cobrindo:
 - Serviços da **camada Application**
 
 ## Configurações do Banco de dados
+```bash
 "ConnectionStrings": {
   "DefaultConnection": "Host=localhost;Port=5432;Database=SocietyDb;Username=postgres;Password=SEU_PASSWORD"
 }
@@ -52,3 +53,4 @@ Port=5432 → porta padrão do PostgreSQL.
 Database=nome_do_banco → nome da sua base.
 Username=seu_usuario
 Password=sua_senha
+```
